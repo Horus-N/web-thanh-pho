@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+    be:
+        build:
+            args:
+                user: cdev
+                uid: 1000
+            context: ./
+            dockerfile: Dockerfile
+        image: event_management_be
+        container_name: event_management_be
+        restart: unless-stopped
+        ports:
+            - 8000:80
+        working_dir: /var/www
+        environment:
+            DB_CONNECTION: mysql
+            DB_HOST: db
+            DB_PORT: 3306
+            DB_DATABASE: hanoidb
+            DB_USERNAME: root
+            DB_PASSWORD: root
+        expose:
+            - 80
+        volumes:
+            - ./:/var/www
+            - ./docker/nginx_log:/var/log/nginx
+            - ./docker/config/app.conf:/etc/nginx/nginx.conf
+            - ./docker/php-fpm/php-fpm.log:/var/log/php-fpm.log
+        networks:
+            - event_management
+    db:
+        image: mysql:5.7
+        container_name: event_management-db
+        restart: unless-stopped
+        ports:
+            - 3308:3306
+        expose:
+            - 3306
+        environment:
+            MYSQL_DATABASE: hanoidb
+            MYSQL_ROOT_PASSWORD: root
+        volumes:
+            - ./docker/mysql:/var/lib/mysql
+        networks:
+            - event_management
+networks:
+    event_management:
+        driver: bridge

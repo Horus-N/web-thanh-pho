@@ -1,0 +1,120 @@
+[05-Mar-2024 09:33:48] NOTICE: fpm is running, pid 15
+[05-Mar-2024 09:33:48] NOTICE: ready to handle connections
+[05-Mar-2024 09:33:48] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 09:38:27] NOTICE: fpm is running, pid 15
+[05-Mar-2024 09:38:27] NOTICE: ready to handle connections
+[05-Mar-2024 09:38:27] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 09:40:53] NOTICE: fpm is running, pid 15
+[05-Mar-2024 09:40:53] NOTICE: ready to handle connections
+[05-Mar-2024 09:40:53] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 09:42:29] NOTICE: fpm is running, pid 15
+[05-Mar-2024 09:42:29] NOTICE: ready to handle connections
+[05-Mar-2024 09:42:29] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 09:44:01] NOTICE: fpm is running, pid 14
+[05-Mar-2024 09:44:01] NOTICE: ready to handle connections
+[05-Mar-2024 09:44:01] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 09:44:50] NOTICE: fpm is running, pid 15
+[05-Mar-2024 09:44:50] NOTICE: ready to handle connections
+[05-Mar-2024 09:44:50] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 10:05:08] NOTICE: Terminating ...
+[05-Mar-2024 10:05:08] NOTICE: exiting, bye-bye!
+[05-Mar-2024 10:05:14] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:14] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:16] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:16] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:18] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:18] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:20] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:20] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:22] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:22] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:24] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:24] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:26] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:26] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:28] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:28] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:31] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:31] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:33] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:33] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:35] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:35] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:37] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:37] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:39] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:39] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:41] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:41] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:43] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:43] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:45] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:45] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:47] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:47] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:49] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:49] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:51] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:51] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:53] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:53] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:55] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:55] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:57] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:57] ERROR: FPM initialization failed
+[05-Mar-2024 10:05:59] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:05:59] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:02] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:02] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:04] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:04] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:05] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:05] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:06] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:06] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:09] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:09] ERROR: FPM initialization failed
+[05-Mar-2024 10:06:12] ERROR: Another FPM instance seems to already listen on /run/php/php8.1-fpm.sock
+[05-Mar-2024 10:06:12] ERROR: FPM initialization failed
+[05-Mar-2024 10:10:25] NOTICE: fpm is running, pid 16
+[05-Mar-2024 10:10:25] NOTICE: ready to handle connections
+[05-Mar-2024 10:10:25] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 10:14:45] NOTICE: fpm is running, pid 15
+[05-Mar-2024 10:14:45] NOTICE: ready to handle connections
+[05-Mar-2024 10:14:45] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 10:23:47] NOTICE: fpm is running, pid 15
+[05-Mar-2024 10:23:47] NOTICE: ready to handle connections
+[05-Mar-2024 10:23:47] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 10:26:37] NOTICE: fpm is running, pid 15
+[05-Mar-2024 10:26:37] NOTICE: ready to handle connections
+[05-Mar-2024 10:26:37] NOTICE: systemd monitor interval set to 10000ms
+[05-Mar-2024 13:59:59] NOTICE: fpm is running, pid 15
+[05-Mar-2024 13:59:59] NOTICE: ready to handle connections
+[05-Mar-2024 13:59:59] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 13:41:22] NOTICE: fpm is running, pid 16
+[06-Mar-2024 13:41:22] NOTICE: ready to handle connections
+[06-Mar-2024 13:41:23] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 13:43:15] NOTICE: fpm is running, pid 15
+[06-Mar-2024 13:43:15] NOTICE: ready to handle connections
+[06-Mar-2024 13:43:15] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 13:46:35] NOTICE: fpm is running, pid 15
+[06-Mar-2024 13:46:35] NOTICE: ready to handle connections
+[06-Mar-2024 13:46:35] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 13:54:33] NOTICE: fpm is running, pid 15
+[06-Mar-2024 13:54:33] NOTICE: ready to handle connections
+[06-Mar-2024 13:54:33] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 14:02:56] NOTICE: fpm is running, pid 15
+[06-Mar-2024 14:02:56] NOTICE: ready to handle connections
+[06-Mar-2024 14:02:56] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 14:04:35] NOTICE: fpm is running, pid 14
+[06-Mar-2024 14:04:35] NOTICE: ready to handle connections
+[06-Mar-2024 14:04:35] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 14:05:57] NOTICE: fpm is running, pid 15
+[06-Mar-2024 14:05:57] NOTICE: ready to handle connections
+[06-Mar-2024 14:05:57] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 14:09:21] NOTICE: fpm is running, pid 15
+[06-Mar-2024 14:09:21] NOTICE: ready to handle connections
+[06-Mar-2024 14:09:21] NOTICE: systemd monitor interval set to 10000ms
+[06-Mar-2024 14:11:29] NOTICE: fpm is running, pid 15
+[06-Mar-2024 14:11:29] NOTICE: ready to handle connections
+[06-Mar-2024 14:11:29] NOTICE: systemd monitor interval set to 10000ms

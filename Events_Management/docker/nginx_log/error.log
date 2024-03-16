@@ -1,0 +1,4 @@
+2024/03/06 14:02:56 [emerg] 16#16: duplicate location "/static/" in /etc/nginx/nginx.conf:36
+2024/03/06 14:02:57 [emerg] 20#20: duplicate location "/static/" in /etc/nginx/nginx.conf:36
+2024/03/06 14:02:59 [emerg] 21#21: duplicate location "/static/" in /etc/nginx/nginx.conf:36
+2024/03/06 14:03:02 [emerg] 22#22: duplicate location "/static/" in /etc/nginx/nginx.conf:36
